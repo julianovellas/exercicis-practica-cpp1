@@ -5,7 +5,7 @@
 using namespace std;
 
 
-
+ 
 
 ////2.
 ////Generar una classe Rectangle perquè permeti:

@@ -27,5 +27,14 @@
     <ClCompile Include="exercici 4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercici 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercici 6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercici 7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

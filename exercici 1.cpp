@@ -12,7 +12,7 @@ using namespace std;
 ////•	Comprovar si és major d’edat
 //
 //
-//class Persona
+//class Persona 
 //{
 //private:
 //	int edat;
